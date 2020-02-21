@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1, LRT
-http://185.176.117.243:80/live/eds/LRT/HLS_encr/LRT-mp4a_96000_lit=1.m3u8
-
 #EXTINF:-1, LRT Lituanica
 http://185.176.117.243/live/eds/LRT_Lithuania/HLS_encr/index.m3u8
+
+#EXTINF:-1, LRT
+http://185.176.117.243:80/live/eds/LRT/HLS_encr/LRT-mp4a_96000_lit=1.m3u8
 
 #EXTINF:-1, LNK
 http://185.176.117.243/live/eds/LNK/HLS_encr/LNK-avc1_2200000=32.m3u8
