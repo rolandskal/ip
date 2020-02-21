@@ -1,0 +1,79 @@
+#EXTM3U
+
+#EXTINF:-1, THT4 RU
+http://85.112.114.11:8086/udp/233.170.170.130:58631
+
+#EXTINF:-1, TV1000 RU
+http://185.176.117.243/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8
+
+#EXTINF:-1, TV1000 EN
+http://213.252.252.17/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8
+
+#EXTINF:-1, TV1000_action
+http://185.176.117.243/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8
+
+#EXTINF:-1, TV1000PremiumHD
+http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
+
+#EXTINF:-1, TV1000 Megahit HD
+http://streamer.sktv.peers.tv/streaming/tv_1000_megahit_hd/364/copy/playlist.m3u8
+
+#EXTINF:-1, DiscoveryWorld
+http://78.157.230.19/streaming/discoveryworld/364/gpu_tvrecw/playlist.m3u8
+
+#EXTINF:-1, History 2 
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+
+#EXTINF:-1, Love Nature
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
+
+#EXTINF:-1, Travel Guide TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
+
+#EXTINF:-1, Viasat Nature
+http://185.176.117.243/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD.m3u8
+
+#EXTINF:-1, Viasat Explore HD
+http://185.176.117.243/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
+
+#EXTINF:-1, Viasat History HD
+http://185.176.117.243/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u8
+
+#EXTINF:-1, REN TV
+http://sc.id-tv.kz/RenTV_36_37.m3u8
+
+#EXTINF:-1, NANO TV
+http://nano.teleservice.su:8080/hls/nano.m3u8
+
+#EXTINF:-1, Master TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u
+
+#EXTINF:-1, AutoMoto TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+
+#EXTINF:-1, Viasat Sport HD RU
+http://78.157.230.19/streaming/viasat_sport_hd/364/copy/playlist.m3u8
+
+#EXTINF:-1, Viasat Sport RU
+http://persik.tv/stream/3602/287583/10249.m3u8
+
+#EXTINF:-1, Eurosport
+http://31.133.47.1:8800/eurosport
+
+#EXTINF:-1, Eurosport 2
+http://31.133.47.1:8800/eurosport_2
+
+#EXTINF:-1, Music uTVedge
+http://81.196.0.126/utvedge/utvlivehls/index.m3u8
+
+#EXTINF:-1, MTV Hits
+http://185.176.117.243/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
+
+#EXTINF:-1, m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+
+#EXTINF:-1, DJing Music
+https://www.djing.com/tv/i-28634-04.m3u8
+
+#EXTINF:-1, Nicktoons
+http://185.176.117.243/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
