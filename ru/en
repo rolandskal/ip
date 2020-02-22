@@ -1,26 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, LRT Lituanica
-http://185.176.117.243/live/eds/LRT_Lithuania/HLS_encr/index.m3u8
-
-#EXTINF:-1, LRT
-http://185.176.117.243:80/live/eds/LRT/HLS_encr/LRT-mp4a_96000_lit=1.m3u8
-
-#EXTINF:-1, LNK
-http://185.176.117.243/live/eds/LNK/HLS_encr/LNK-avc1_2200000=32.m3u8
-
-#EXTINF:-1, TV3
-http://185.176.117.243:80/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-mp4a_96000_lit=9.m3u8
-
-#EXTINF:-1, TV6
-http://185.176.117.243:80/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD-mp4a_96000_lit=10.m3u8
-
-#EXTINF:-1, TV8
-http://185.176.117.243:80/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD-mp4a_96000_lit=9.m3u8
-
-#EXTINF:-1, Sport 1
-http://185.176.117.243:80/live/eds/Sport1/HLS_encr/Sport1-mp4a_96000_lit=8.m3u8
-
 #EXTINF:-1, CTC
 https://sc.id-tv.kz/STS_38_39.m3u8
 
@@ -119,9 +98,6 @@ http://88.119.220.2/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
 
 #EXTINF:-1, Disney Junior
 http://185.176.117.243/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
-
-#EXTINF:-1, BBC World News
-http://45.92.69.76:8000/play/a03x
 
 #EXTINF:-1, CNN
 http://ott.artmott.com/CNN/tracks-v1a1/mono.m3u8
