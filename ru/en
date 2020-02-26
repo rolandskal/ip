@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1, LRT
+http://185.176.117.243/live/eds/LRT/HLS_encr/index.m3u8
+
+#EXTINF:-1, LRT Lituanica
+http://185.176.117.243/live/eds/LRT_Lithuania/HLS_encr/index.m3u8
+
 #EXTINF:-1, CTC
 https://sc.id-tv.kz/STS_38_39.m3u8
 
@@ -20,9 +26,6 @@ http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
 
 #EXTINF:-1, TV1000 Megahit HD
 http://streamer.sktv.peers.tv/streaming/tv_1000_megahit_hd/364/copy/playlist.m3u8
-
-#EXTINF:-1, AMC
-http://84.22.33.254/unicast.amc/index.m3u8
 
 #EXTINF:-1, FX
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
@@ -75,6 +78,9 @@ http://31.133.47.1:8800/eurosport
 #EXTINF:-1, Eurosport 2
 http://31.133.47.1:8800/eurosport_2
 
+#EXTINF:-1, Baltic Music
+https://streamer5.tvdom.tv/in/tvdom/tracks-v1a1/index.m3u8
+
 #EXTINF:-1, MTV Hits
 http://185.176.117.243/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
 
@@ -99,5 +105,8 @@ http://88.119.220.2/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
 #EXTINF:-1, Disney Junior
 http://185.176.117.243/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
 
-#EXTINF:-1, CNN
-http://ott.artmott.com/CNN/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Nickelodeon
+https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
+
+#EXTINF:-1, Lifetime
+https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
